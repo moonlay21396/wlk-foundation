@@ -26,7 +26,7 @@
                                       </tr>
                                       <tr>
                                         <td><b>Title</b></td>
-                                        <td>{{$blog_detail['title']}}</td>
+                                        <td class="myanmar">{{$blog_detail['title']}}</td>
                                       </tr>
                                       <tr>
                                         <td><b>Date</b></td>

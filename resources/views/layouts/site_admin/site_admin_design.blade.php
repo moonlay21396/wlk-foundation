@@ -33,10 +33,10 @@
     <link rel="stylesheet" href='https://mmwebfonts.comquas.com/fonts/?font=pyidaungsu' />
     <link rel="stylesheet" href='https://mmwebfonts.comquas.com/fonts/?font=zawgyi' />
     <style>
-    .myanmar{
+    <style>
+    td,h1,h2,h3,h4,h5,h6,p,.myanmar{
             font-family:Pyidaungsu,Zawgyi-One;
-        } 
-        
+      } 
     .imagePreview {
         width: 110px;
         height: 80px;
